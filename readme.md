@@ -6,7 +6,7 @@ Find more themes: https://linkstack.org/themes
 *	Theme Date: 2022-05-22
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
-*	Theme License: GPLv3
+*	Theme License: MIT
 *	Source code: https://github.com/LinkStackOrg/Cloudy-Storm
 
 ### Used assets:
