@@ -15,9 +15,5 @@ Find more themes: https://linkstack.org/themes
 * License: MIT
 
 * Built using:
-* https://codepen.io/simeydotme/pen/WNawXQM
-* License: MIT
-
-* Built using:
 * https://codepen.io/ArvidW/pen/poKMrBR
 * License: MIT
