@@ -243,13 +243,7 @@ right: 15px; }
 */
 
 /* Switches text color for credit footer for dark/light mode */
-@media (prefers-color-scheme: dark) {
+
 .credit-txt-clr{
     color: #FFF !important;
-}
-}
-@media (prefers-color-scheme: light) {
-.credit-txt-clr{
-    color: #100a26 !important;
-}
 }
